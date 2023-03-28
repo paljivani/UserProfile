@@ -10,9 +10,16 @@ h3{
 .new
 {
     margin: 40px;
+    transition: all 0.5s;
+    cursor: pointer;
 }
 .padding
 {
     padding-top: 60px;
     padding-left: 30px;
+}
+.new:hover
+{
+    margin-top: 0px;
+    color: red;
 }
