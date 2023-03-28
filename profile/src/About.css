@@ -1,0 +1,18 @@
+.h1
+{
+    display: block;
+    margin: auto;
+    text-align: center;
+}
+h3{
+    padding-top: 20px;
+}
+.new
+{
+    margin: 40px;
+}
+.padding
+{
+    padding-top: 60px;
+    padding-left: 30px;
+}
